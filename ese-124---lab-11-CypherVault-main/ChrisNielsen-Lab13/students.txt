@@ -1,0 +1,3 @@
+str str 11050 13 7.9
+tristan man 100016 1 .001
+
